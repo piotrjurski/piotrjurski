@@ -1,7 +1,7 @@
 ### Hi there 👋. My name is Piotr!
 
 ## Bio
-Sr. Web Developer with seven years of experience at Brooklyn Public Library.
+Sr. Web Developer at Brooklyn Public Library.
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
