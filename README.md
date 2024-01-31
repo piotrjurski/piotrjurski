@@ -7,11 +7,14 @@ Sr. Web Developer at Brooklyn Public Library.
 HTML5, CSS3, SASS, JavaScript, PHP, Typescript, React
 OpenSSL, MySQL, MariaDB, Apache, Nginx, Linux, Windows, MacOS
 
-## Tools
-VSCode, Prettier, Git, GitHub, BitBucket, Postman, Google Chrome
+## Cloud
+Amazon Web Services
 
 ## DevOps
 Docker, Terraform, Bash, PowerShell, AWS CodePipeline
+
+## Tools
+VSCode, Prettier, Git, GitHub, BitBucket, Postman, Google Chrome
 
 <!--
 **piotrjurski/piotrjurski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
