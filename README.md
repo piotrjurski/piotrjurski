@@ -4,7 +4,7 @@
 Sr. Web Developer at Brooklyn Public Library.
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-HTML5, CSS3, SASS, JavaScript, PHP, Typescript, React
+HTML5, CSS3, SASS, JavaScript, PHP, Typescript, React,
 OpenSSL, MySQL, MariaDB, Apache, Nginx, Linux, Windows, MacOS
 
 ## Cloud
