@@ -10,6 +10,9 @@ OpenSSL, MySQL, MariaDB, Apache, Nginx, Linux, Windows, MacOS
 ## Tools
 VSCode, Prettier, Git, GitHub, BitBucket, Postman, Google Chrome
 
+## DevOps
+Docker, Terraform, Bash, PowerShell, AWS CodePipeline
+
 <!--
 **piotrjurski/piotrjurski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
